@@ -1,0 +1,21 @@
+[
+  { "name": "Carl", "text": "Hello there!" },
+  { "name": "Carl", "text": "Who are you?" },
+  { "name": "You", "text": "Just someone..." },
+  { "name": "Carl", "text": "Never mind. I'm Carl." },
+  { "name": "Carl", "text": "Wait! You're not from here, are you?" },
+  { "name": "You", "text": "No... I just woke up near the lake. Where is this place?" },
+  { "name": "Carl", "text": "This is Fernvale. I used to be the village caretaker, before... things changed." },
+  { "name": "You", "text": "Changed? What happened?" },
+  { "name": "Carl", "text": "People started vanishing. One by one. No trace. No sounds. Just... gone." },
+  { "name": "You", "text": "What caused it?" },
+  { "name": "Carl", "text": "We found something. Deep in the woods. A glowing stone. Whispering. Since then, the forest hasn't been the same." },
+  { "name": "You", "text": "A cursed artifact?" },
+  { "name": "Carl", "text": "Maybe. Some called it 'The Heart of Silence'. The elders warned us, but we didn’t listen." },
+  { "name": "Carl", "text": "Now the woods are crawling with shadows. The air is thick. Wrong." },
+  { "name": "You", "text": "Why didn’t you leave?" },
+  { "name": "Carl", "text": "Someone had to stay. And maybe... someone like you is meant to finish what we started." },
+  { "name": "You", "text": "What do you want me to do?" },
+  { "name": "Carl", "text": "Gather sticks, herbs, anything. Help me prepare a warding ritual. If you’re brave enough, I’ll guide you to the stone." },
+  { "name": "Carl", "text": "But be warned. Once you face it... you may not return the same." }
+]
